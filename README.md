@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Flood Prediction In Accra, Ghana
+Summary of Project Description: 
 
-You can use the [editor on GitHub](https://github.com/EmmanuelSAkosah/Flood-Prediction-Accra/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Overview
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a team of students and professionals interested in combining expertise in machine learning, weather/flood prediction and public policy to create an accurate flood prediction tool to warn locals of fatal floods. We also aim to guide public policy through the research findings we'll uncover over the course of the project. It is our hope that such an undertaking will provide early warnings to locals during flooding and put an end to Accra's annual fatal floods.
 
-### Markdown
+ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### The prediction model
 
-```markdown
-Syntax highlighted code block
+Current flood prediction models rely mainly on weather signals mined from weather databases while almost disregarding environmental signals. The disregard of environmental signals such as soil types and their permeability, building proximity and human-induced drainage blockages etc, can only result in coarse or inaccurate flood predictions. We aim to incorporate such signals into a deep-learning based flood prediction model specialized for the Accra Metropolitan Area. 
 
-# Header 1
-## Header 2
-### Header 3
+ 
 
-- Bulleted
-- List
+We are actively looking to expand our team and invite all interested students. All skill levels are welcome.  
+Interested students and professionals with experience in
+-Machine Learning
+-Weather Forecasting
+-GIS Tools
+-or a passion for the project 
+should reach us at manny.19@dartmouth.edu.
 
-1. Numbered
-2. List
+See the detailed, preliminary project description [here](http://bit.ly/2U1MVY5)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EmmanuelSAkosah/Flood-Prediction-Accra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
