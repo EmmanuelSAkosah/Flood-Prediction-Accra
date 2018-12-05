@@ -14,12 +14,12 @@ Current flood prediction models rely mainly on weather signals mined from weathe
  
 
 We are actively looking to expand our team and invite all interested students. All skill levels are welcome.  
-Interested students and professionals with experience in
--Machine Learning
--Weather Forecasting
--GIS Tools
--or a passion for the project 
-should reach us at manny.19@dartmouth.edu.
+Interested students and professionals with experience in<br/>
+-Machine Learning<br/>
+-Weather Forecasting<br/>
+-GIS Tools<br/>
+-or a passion for the project <br/>
+should reach us at manny.19@dartmouth.edu.<br/>
 
 See the detailed, preliminary project description [here](http://bit.ly/2U1MVY5)
 
